@@ -19,7 +19,7 @@
        "project-3":{
         "id": "project-3",
          "title": "Names App",
-         "body": "Names By Meaning Websit Now Updating....",
+         "body": "This web app is all about finding out the meaning of your name",
          "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
          "imageUrl": "https://4.bp.blogspot.com/-piFk7lOZxDg/Wz-1N9YWuwI/AAAAAAAAAtk/MwWn8BnDgOQU2WJbcP1LJZIWsiHDMKiCACLcBGAs/s1600/proOne.PNG",
          "link": "https://bit.ly/2Lkjlf5"
