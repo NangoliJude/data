@@ -2,22 +2,25 @@
     {
         "project-1":{
             "id": "project-1",
-             "title": "ChatYo Chat App",
-             "body": "ChatYo coming soon",
+             "title": "ChatYo",
+             "body": "It's a Web chatting App for Designers",
+             "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
              "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
              "link": "www.yahoo.com"
          },
          "project-2":{
           "id": "project-2",
-           "title": "Shopping Website",
-           "body": "Shopping Website Websit Now Updating....",
+           "title": "Lit Flix",
+           "body": "A website for Watching Movies",
+           "Tech": "I used render props pattern in react js , styled components for styling, svg, context api to manage the state",
            "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
            "link": "www.google.com"
        },
        "project-3":{
         "id": "project-3",
-         "title": "Names By Meaning Websit",
+         "title": "Names App",
          "body": "Names By Meaning Websit Now Updating....",
+         "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
          "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
          "link": "www.google.com"
       },
@@ -25,6 +28,7 @@
         "id": "project-4",
          "title": "Landing Page",
          "body": "Landing Page Updating",
+         "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
          "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
          "link": "www.bible.com"
       }
