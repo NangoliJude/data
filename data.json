@@ -5,7 +5,7 @@
              "title": "Names App",
              "body": "It's a Web chatting App for Designers",
              "Tech": "used React js, styled components, svg, context api to manage the state and firebase as abackend",
-             "imageUrl": "https://4.bp.blogspot.com/-piFk7lOZxDg/Wz-1N9YWuwI/AAAAAAAAAtk/MwWn8BnDgOQU2WJbcP1LJZIWsiHDMKiCACLcBGAs/s1600/proOne.PNG",
+             "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
              "link": "https://namesbymeaning-ea4ea.firebaseapp.com/"
          },
          "project-2":{
@@ -13,15 +13,15 @@
            "title": "Lit Flix",
            "body": "A website for Watching Movies, under construction will be Updating....soon",
            "Tech": "Render props pattern in react js widely used in this app, styled components for styling, svg, context to manage the state",
-           "imageUrl": "https://4.bp.blogspot.com/-8iWLJxNH8t8/W1I8z7V8zxI/AAAAAAAAAxU/ITOcqpBXMwY3DikSz9D4XkJ7MuVldxt4wCLcBGAs/s1600/LITFLIX.PNG",
+           "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
            "link": "www.google.com"
        },
        "project-3":{
         "id": "project-3",
          "title": "Names App",
-         "body": "Names By Meaning Websit Now Updating....",
+         "body": "Names By Meaning Website",
          "Tech": "Used Redux, react js in this app, css for styling, svg",
-         "imageUrl": "https://3.bp.blogspot.com/-ueBmfnhoqLE/W1EJR0tfHGI/AAAAAAAAAw8/kkSvdh21jqg2ZkYCuhw6i2IqAk-rh5DuwCLcBGAs/s1600/redux.PNG",
+         "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
          "link": "www.google.com"
       },
       "project-4":{
@@ -29,7 +29,7 @@
          "title": "Landing Page",
          "body": "Landing Page Updating",
          "Tech": "I used React js and css",
-         "imageUrl": "https://2.bp.blogspot.com/-nLrtU1sTzMM/W1EJMdbVJWI/AAAAAAAAAw4/LepSGXEHgJMe_wuB_cFUPe-Zl1z0jmEBwCLcBGAs/s1600/landingpage.PNG",
+         "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
          "link": "www.bible.com"
       }
       }
