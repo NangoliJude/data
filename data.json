@@ -2,34 +2,34 @@
     {
         "project-1":{
             "id": "project-1",
-             "title": "ChatYo",
+             "title": "Names App",
              "body": "It's a Web chatting App for Designers",
-             "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
+             "Tech": "used React js, styled components, svg, context api to manage the state and firebase as abackend",
              "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
-             "link": "www.yahoo.com"
+             "link": "https://namesbymeaning-ea4ea.firebaseapp.com/"
          },
          "project-2":{
           "id": "project-2",
            "title": "Lit Flix",
-           "body": "A website for Watching Movies",
-           "Tech": "I used render props pattern in react js , styled components for styling, svg, context api to manage the state",
-           "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
+           "body": "A website for Watching Movies, under construction will be Updating....soon",
+           "Tech": "Render props pattern in react js widely used in this app, styled components for styling, svg, context to manage the state",
+           "imageUrl": "https://4.bp.blogspot.com/-8iWLJxNH8t8/W1I8z7V8zxI/AAAAAAAAAxU/ITOcqpBXMwY3DikSz9D4XkJ7MuVldxt4wCLcBGAs/s1600/LITFLIX.PNG",
            "link": "www.google.com"
        },
        "project-3":{
         "id": "project-3",
          "title": "Names App",
-         "body": "This web app is all about finding out the meaning of your name",
-         "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
-         "imageUrl": "https://4.bp.blogspot.com/-piFk7lOZxDg/Wz-1N9YWuwI/AAAAAAAAAtk/MwWn8BnDgOQU2WJbcP1LJZIWsiHDMKiCACLcBGAs/s1600/proOne.PNG",
-         "link": "https://bit.ly/2Lkjlf5"
+         "body": "Names By Meaning Websit Now Updating....",
+         "Tech": "Used Redux, react js in this app, css for styling, svg",
+         "imageUrl": "https://3.bp.blogspot.com/-ueBmfnhoqLE/W1EJR0tfHGI/AAAAAAAAAw8/kkSvdh21jqg2ZkYCuhw6i2IqAk-rh5DuwCLcBGAs/s1600/redux.PNG",
+         "link": "www.google.com"
       },
       "project-4":{
         "id": "project-4",
          "title": "Landing Page",
          "body": "Landing Page Updating",
-         "Tech": "I used React js, styled components, svg, context api to manage the state and firebase as abackend",
-         "imageUrl": "https://1.bp.blogspot.com/-TAyFdhan0XU/W0zZBlPD-CI/AAAAAAAAAv4/i1vVOpF1UsQNmzdtzr4_v2gZP0DijKG0wCLcBGAs/s1600/Sample.jpg",
+         "Tech": "I used React js and css",
+         "imageUrl": "https://2.bp.blogspot.com/-nLrtU1sTzMM/W1EJMdbVJWI/AAAAAAAAAw4/LepSGXEHgJMe_wuB_cFUPe-Zl1z0jmEBwCLcBGAs/s1600/landingpage.PNG",
          "link": "www.bible.com"
       }
       }
