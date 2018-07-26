@@ -18,11 +18,11 @@
        },
        "project-3":{
         "id": "project-3",
-         "title": "Names App",
-         "body": "Names By Meaning Website",
-         "Tech": "Used Redux, react js in this app, css for styling, svg",
+         "title": "Note App",
+         "body": "Awebsite for saving and stylying notes",
+         "Tech": "Used react js in this app, css for styling",
          "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
-         "link": "www.google.com"
+         "link": "https://2op12wvp4j.codesandbox.io/notes/1532630209844"
       },
       "project-4":{
         "id": "project-4",
@@ -30,7 +30,7 @@
          "body": "Landing Page Updating",
          "Tech": "I used React js and css",
          "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
-         "link": "www.bible.com"
+         "link": "https://5k4z3q9zmn.codesandbox.io/"
       }
       }
 
