@@ -3,9 +3,9 @@
         "project-1":{
             "id": "project-1",
              "title": "Names App",
-             "body": "It's a Web chatting App for Designers",
+             "body": "Awebsite for find out the meaning of your name",
              "Tech": "used React js, styled components, svg, context api to manage the state and firebase as abackend",
-             "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
+             "imageUrl": "https://1.bp.blogspot.com/-sLchqe8blVU/W1tR9kUQqpI/AAAAAAAAA0M/40bNRc7ywjMwQ4Q2mKiHbiIobgayZjtzgCLcBGAs/s1600/BABY.png",
              "link": "https://namesbymeaning-ea4ea.firebaseapp.com/"
          },
          "project-2":{
