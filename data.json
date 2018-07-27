@@ -19,7 +19,7 @@
        "project-3":{
         "id": "project-3",
          "title": "Note App",
-         "body": "Awebsite for saving and stylying notes you can check out",
+         "body": "Awebsite for saving and styling notes you can check out",
          "Tech": "Used react js in this app, css for styling",
          "imageUrl": "https://1.bp.blogspot.com/-FIRIv11uRIM/W1tUCtuxplI/AAAAAAAAA0Y/AcuKAlgGAlM5dD_khHcUgOOK3DDo3Ph8wCLcBGAs/s1600/NOTE.png",
          "link": "https://2op12wvp4j.codesandbox.io/notes/1532630209844"
