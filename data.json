@@ -26,11 +26,11 @@
       },
       "project-4":{
         "id": "project-4",
-         "title": "Landing Page",
-         "body": "Landing Page Updating",
-         "Tech": "I used React js and css",
-         "imageUrl": "https://1.bp.blogspot.com/-Qf4oP49YyPk/W1JTLDNR4RI/AAAAAAAAAxo/ZFlO4S7a05QO9N_ssfNcvcgbdg3FbyiYACLcBGAs/s1600/art1.png",
-         "link": "https://98qv94q614.codesandbox.io/"
+         "title": "Shopping Cart",
+         "body": "Flexio shopping is still at its early stages but you can check out",
+         "Tech": "I'm using styled components, react-router-dom, some, context and render props pattern to create this shopping cart",
+         "imageUrl": "https://2.bp.blogspot.com/-Od55ex2LDDk/W1tMYXsn40I/AAAAAAAAAzk/wuZHVKWshewY0Fkyd5d9_SbrU5LfTQk1wCLcBGAs/s1600/shopping%2Bcart.png",
+         "link": "https://5vl1859jz4.codesandbox.io/"
       }
       }
 
