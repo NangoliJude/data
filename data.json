@@ -11,10 +11,10 @@
          "project-2":{
           "id": "project-2",
            "title": "Lit Flix",
-           "body": "A website for Watching Movies, under construction will be Updating more features....soon but can check out the landing page",
+           "body": "shopping cart, under construction will be Updating more features....soon but can check out the landing page",
            "Tech": "Render props pattern in react js widely used in this app, styled components for styling, svg, context to manage the state",
            "imageUrl": "https://1.bp.blogspot.com/-7z6ePv2ctpE/W1tPOuWIMVI/AAAAAAAAAz4/8Lx6cgUL4S8G3U1wGd_9nRNXHmrgMAXqQCLcBGAs/s1600/MOVIE.png",
-           "link": "https://5k4z3q9zmn.codesandbox.io/"
+           "link": "https://p53wzqm1jq.codesandbox.io/"
        },
        "project-3":{
         "id": "project-3",
